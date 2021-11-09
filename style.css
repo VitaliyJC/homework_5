@@ -31,7 +31,6 @@
 
 .cards {
    display: flex;
-   justify-content: space-between;
 }
 
 .cards__block {
