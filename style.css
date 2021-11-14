@@ -24,6 +24,10 @@
    width: 510px;
 }
 
+.text__h1 {
+   width: 425px;
+}
+
 .body-mini {
    font-size: 36px;
    text-align: center;
